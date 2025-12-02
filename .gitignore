@@ -21,4 +21,4 @@ var/
 *.egg
 .pytest_cache/
 .coverage
-autonomic_system.db/
+autonomic_system.db
